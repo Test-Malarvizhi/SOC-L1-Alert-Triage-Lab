@@ -92,6 +92,15 @@ The exercise involved analyzing multiple alerts, determining their severity, ass
 - False Positive Analysis
 - Incident Documentation
 
+**MITRE ATT&CK Mapping**
+| Alert                 | ATT&CK Technique |
+| --------------------- | ---------------- |
+| Brute Force           | T1110            |
+| Data Exfiltration     | T1041            |
+| Double Extension File | T1204            |
+| VPN Login Anomaly     | T1078            |
+
+
 ## Tools & Platforms
 
 - TryHackMe SOC Simulator
