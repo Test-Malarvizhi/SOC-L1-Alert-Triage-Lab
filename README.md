@@ -81,3 +81,29 @@ The exercise involved analyzing multiple alerts, determining their severity, ass
       Verdict: True Positive  
       Comment: Multiple failed login attempts from external IPs. Account locked and password reset.
 
+## Skills Demonstrated
+
+- Security Alert Triage
+- SIEM Investigation
+- Incident Classification
+- Threat Intelligence Validation
+- Log Analysis
+- Security Operations Center (SOC)
+- False Positive Analysis
+- Incident Documentation
+
+## Tools & Platforms
+
+- TryHackMe SOC Simulator
+- SIEM Dashboard
+- Threat Intelligence Sources
+- GitHub
+
+## Key Takeaways
+
+- Learned SOC alert prioritization
+- Distinguished true positives from false positives
+- Practiced incident documentation
+- Improved investigation workflow
+- Gained experience with alert ownership and closure
+
